@@ -1,5 +1,5 @@
 $limit = (Get-Date).AddDays(-7)
-$path = "$env:HL_PROJECT_DIR\Out"
+$path = "$env:PROJECT_DIR\Out"
 
 
 # Delete files older than the $limit.

@@ -1,3 +1,5 @@
+# WIP
+
 If (-not (Test-Path $env:HL_PROJECT_DIR\slack_hook.txt) ) {
     Write-Output "[HL] slack_hook not defined. not sending notification."
     exit 0

@@ -1,3 +1,4 @@
+# WIP
 
 $generatorPath = "$env:HL_PROJECT_DIR\.hl\Tools\LaunchpadManifestGenerator\Launchpad.Utilities.exe"
 
